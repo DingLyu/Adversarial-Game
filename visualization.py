@@ -405,4 +405,3 @@ def gif():
     animation = mpy.VideoClip(make_frame_mpl, duration=duration)
     animation.write_gif("figs/demo.gif", fps=5)
 
-gif()

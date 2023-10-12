@@ -1,8 +1,8 @@
-# Codes and Platform for "Confrontation Game of Networked Systems."
+# Codes and Platform for 
 
-Paper: Confrontation Game of Networked Systems, under review by IEEE TNSE
+Paper: A Two-network Adversarial Game: Model, Strategy, and Structure
 
-Platform: https://sysconfront.dinglyu.cn/
+Platform: https://adversarialgame.dinglyu.cn/
 
 Contact: Ding Lyu, dylan_lyu@sjtu.edu.cn or dylanlyu1225@gmail.com
 

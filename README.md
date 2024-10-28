@@ -4,7 +4,7 @@ Paper: A Two-network Adversarial Game: Model, Strategy, and Structure
 
 User guide: [https://adversarialgame.dinglyu.cn/](https://github.com/DingLyu/adversarial-game-platform)
 
-Contact: Ding Lyu, dylanlyu1225@gmail.com
+Contact me: Ding Lyu, dylanlyu1225@gmail.com
 
 
 ## Code
